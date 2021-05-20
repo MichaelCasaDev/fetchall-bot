@@ -6,6 +6,7 @@ Clone this repo and edit `index.js` with your bot token and channel ID.
 
 ```bash
 git clone https://github.com/MichaelDevC/fetchall-bot.git
+cd fetchall-bot && node index.js
 ```
 
 ## License
